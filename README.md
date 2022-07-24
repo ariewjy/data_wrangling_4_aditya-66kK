@@ -10,5 +10,5 @@
 2. Navigate to the folder named ```<your_virtual_envname>```
 3. Activate the virtual env by running ```source/bin/activate```
 4. Install dependencies from ```requirements.txt``` to run the script using: ```<your_virtual_envname>/bin/python3.9 -m pip3 install -r requirements.txt```
-5. Make sure the csv file required for cleaning up is under the same directory as the ```<your_virtual_envname>``` folder. **Not inside, but under the _**SAME**_ directory.**
+5. Make sure the csv file required (```autos.csv```) for cleaning up is under the same directory as the ```<your_virtual_envname>``` folder. **Not inside, but under the _**SAME**_ directory.**
 6. Run the script from the terminal by: ```<your_virtual_envname>/bin/python3.9 script.py```
