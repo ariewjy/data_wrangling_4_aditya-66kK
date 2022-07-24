@@ -1,7 +1,11 @@
 # Pipepine to cleanup Cars data (autos.csv)
 ## Follow The Following Steps to Run the Script
-#### Disclaimer: This tutorial is for Mac, and the python version is 3.9
+#### Disclaimer:
+- This tutorial is for Mac
+- At the time of this tutorial, the python version is 3.9
+- My virtual env name is ```pipeline_pacmann``` as the folder name suggested
 
+## Steps By Steps:
 1. Create python virtual env using python venv ```python3 -m venv <your_virtual_envname>```
 2. Navigate to the folder named ```<your_virtual_envname>```
 3. Activate the virtual env by running ```source/bin/activate```
